@@ -37,3 +37,6 @@ Useful to test REST APIs. I think it's lighter then Postman
 
 * http://architectshack.com/PoorMansTSqlFormatter.ashx
 SQL Formatter. 
+
+* yEd https://www.yworks.com/products/yed  and http://thinkcomposer.com/
+Free diagraming Tools
