@@ -42,3 +42,5 @@ SQL Formatter.
 Free diagraming Tools
 
 * super cool website for retro sessions and collaborative board http://www.ideaboardz.com
+
+* https://mermaidjs.github.io/ Generates State Machines from Text Markup. Usefull to generate diagrams from code, for example.
