@@ -41,6 +41,8 @@ SQL Formatter.
 * yEd https://www.yworks.com/products/yed  and http://thinkcomposer.com/
 Free diagraming Tools
 
-* super cool website for retro sessions and collaborative board http://www.ideaboardz.com
+* useful websites for retro sessions:
+** http://www.ideaboardz.com
+** https://funretro.io
 
 * https://mermaidjs.github.io/ Generates State Machines from Text Markup. Usefull to generate diagrams from code, for example.
