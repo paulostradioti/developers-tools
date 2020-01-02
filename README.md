@@ -46,3 +46,5 @@ Free diagraming Tools
 ** https://funretro.io
 
 * https://mermaidjs.github.io/ Generates State Machines from Text Markup. Usefull to generate diagrams from code, for example.
+
+* https://marketplace.visualstudio.com/items?itemName=OmarElabd.ObjectExporter
