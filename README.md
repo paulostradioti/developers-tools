@@ -48,3 +48,7 @@ Free diagraming Tools
 * https://mermaidjs.github.io/ Generates State Machines from Text Markup. Usefull to generate diagrams from code, for example.
 
 * https://marketplace.visualstudio.com/items?itemName=OmarElabd.ObjectExporter
+
+* Remote Destkop RDP Connection Management Tools
+** https://remotedesktopmanager.com/
+** mRemote https://mremoteng.org/
