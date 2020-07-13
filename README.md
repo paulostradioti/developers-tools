@@ -59,3 +59,6 @@ Useful tools for developers
 ## Online Scrum Poker Planning Tools
 * https://scrumpoker.online/
 * https://www.scrumpoker-online.org/
+
+## List the .NET Framework versions installed in the machine
+* https://github.com/jmalarcon/DotNetVersions
