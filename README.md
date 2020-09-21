@@ -62,3 +62,7 @@ Useful tools for developers
 
 ## List the .NET Framework versions installed in the machine
 * https://github.com/jmalarcon/DotNetVersions
+
+## SQLite Clients
+* https://sqlitestudio.pl/
+* https://sqlitebrowser.org/
