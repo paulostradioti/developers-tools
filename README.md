@@ -1,8 +1,9 @@
 # Developer Tools
 Useful tools for developers
 
-## ShareX
-* Free Software to take screenshots. It allows you to automatically upload the images to storage services.
+## Screenshot and Screencapturing
+* https://getsharex.com/ (ShareX) - Free Software to take screenshots. It allows you to automatically upload the images to storage services.
+* https://getgreenshot.org/downloads/ (Greenshot)
 
 ## OneNode Clipping Chrome Extention
 * Allows you add clips to your onenote from chrome. Usefull to store reference articles, etc.
