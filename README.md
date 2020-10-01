@@ -24,7 +24,7 @@ Useful tools for developers
 * Useful to search for text/patterns in files within a directory and it's subdirectories
 
 ## Insomnia
-* Useful to test REST APIs. I think it's lighter then Postman
+* Useful to test REST APIs. I think it's lighter then Postman. How to fix the self-signed SSL ceritifcate error without having to disable SSL validation: https://blog.postman.com/using-self-signed-certificates-with-postman/
 
 ## Notepad++
 
