@@ -67,3 +67,5 @@ Useful tools for developers
 ## SQLite Clients
 * https://sqlitestudio.pl/
 * https://sqlitebrowser.org/
+
+https://marketplace.visualstudio.com/items?itemName=FortuneNgwenya.FineCodeCoverage
