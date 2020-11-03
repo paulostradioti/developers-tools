@@ -69,3 +69,4 @@ Useful tools for developers
 * https://sqlitebrowser.org/
 
 https://marketplace.visualstudio.com/items?itemName=FortuneNgwenya.FineCodeCoverage
+https://json-schema-faker.js.org/
