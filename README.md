@@ -70,3 +70,6 @@ Useful tools for developers
 
 https://marketplace.visualstudio.com/items?itemName=FortuneNgwenya.FineCodeCoverage
 https://json-schema-faker.js.org/
+
+## Icons
+* https://www.flaticon.com/
