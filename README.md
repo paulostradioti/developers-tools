@@ -73,3 +73,6 @@ https://json-schema-faker.js.org/
 
 ## Icons
 * https://www.flaticon.com/
+
+## Bulk Rename Utility
+* https://www.bulkrenameutility.co.uk/
