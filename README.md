@@ -76,3 +76,6 @@ https://json-schema-faker.js.org/
 
 ## Bulk Rename Utility
 * https://www.bulkrenameutility.co.uk/
+
+## Automated Invite and Slack Invites
+* https://launchpass.com/?utm=pow
