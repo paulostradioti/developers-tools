@@ -79,3 +79,6 @@ https://json-schema-faker.js.org/
 
 ## Automated Invite and Slack Invites
 * https://launchpass.com/?utm=pow
+
+## Fake JSON API responses
+* https://mocki.io/
