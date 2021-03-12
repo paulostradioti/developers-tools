@@ -18,9 +18,9 @@ Useful tools for developers
 * Very usefull for running C# script
 
 ## Total Commander
-* I use it a lot to copy large files over the network
+* I use it a lot to copy large files over the network and also to zip and unzip multiple files at once or based on patterns.
 
-## gepWin
+## grepWin
 * Useful to search for text/patterns in files within a directory and it's subdirectories
 
 ## Insomnia
@@ -82,3 +82,6 @@ https://json-schema-faker.js.org/
 
 ## Fake JSON API responses
 * https://mocki.io/
+
+## KaDeck
+* a tool to visually explore Kafka Tools and monitor messages real time - https://xeotek.com/
