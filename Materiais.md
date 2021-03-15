@@ -6,6 +6,17 @@
 ### Coesão x Acoplamento
 Uma classe **coesa** possui uma única responsabilidade e seu nível de **acoplamento** está diretamente ligado ao quanto essa classe "depende de outras" para funcionar.
 
+### SOLID
+A palavra SOLID é, na verdade, um acrônimo. Cada um dos termos que formam o acrônimo representa um princípio de Desenho de Software (Software Design) que, juntos, visam tornar os sistemas mais fáceis de manter/alterar, testar e escalar. Um fato curioso é que os princípios foram propostos no ano 2000 por Robert C. Martin (conhecido na indústria como Uncle Bob) mas o acrônimo só foi sugerido anos depois (por Michael Feathers).
+
+O acrônimo pode ser expandido como:
+
+Single Responsibility Principle\
+Open Closed Principle\
+Liskov Substitution Principle\
+Interface Segregation Principle\
+Dependency Inversion Principle
+
 ## Links que valem à pena
 
 ### Code Review
