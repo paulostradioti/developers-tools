@@ -1,0 +1,3 @@
+https://rimdev.io/avoiding-aspnet-core-configuration-pitfalls-with-array-values/
+
+https://blog.bitscry.com/2017/11/14/reading-lists-from-appsettings-json/

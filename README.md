@@ -85,3 +85,15 @@ https://json-schema-faker.js.org/
 
 ## KaDeck
 * a tool to visually explore Kafka Tools and monitor messages real time - https://xeotek.com/
+
+## Collaboration Tools
+* https://excalidraw.com/
+* https://www.mindmeister.com/
+* Miro
+
+
+## Diagraming Tools
+* Bizagi
+
+
++ https://archunitnet.readthedocs.io/en/latest/
