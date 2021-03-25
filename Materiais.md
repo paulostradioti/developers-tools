@@ -47,3 +47,5 @@ Dependency Inversion Principle
 * https://refactoring.guru/refactoring/smells
 * https://blog.codinghorror.com/code-smells/
 
+### Clean Code
+* https://www.freecodecamp.org/news/clean-coding-for-beginners/
