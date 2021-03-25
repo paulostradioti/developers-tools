@@ -7,7 +7,6 @@
 
 ### 1. Visão Geral da Arquitetura de Software
 1) https://www.youtube.com/watch?v=S3GBbGUrMk0
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3GBbGUrMk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 2) https://www.youtube.com/watch?v=u5F47CRlGDk
 3) https://www.youtube.com/watch?v=m1Wh4IyC5sA
 4) https://www.youtube.com/watch?v=eormTtyBzSo
