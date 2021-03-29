@@ -68,9 +68,6 @@ Useful tools for developers
 * https://sqlitestudio.pl/
 * https://sqlitebrowser.org/
 
-https://marketplace.visualstudio.com/items?itemName=FortuneNgwenya.FineCodeCoverage
-https://json-schema-faker.js.org/
-
 ## Icons
 * https://www.flaticon.com/
 
@@ -99,3 +96,7 @@ https://json-schema-faker.js.org/
 + https://archunitnet.readthedocs.io/en/latest/
 + http://embedyoutube.org/
 + https://www.loom.com/
++ Bizagi
++ https://technicalseo.com/tools/schema-markup-generator/
++ https://marketplace.visualstudio.com/items?itemName=FortuneNgwenya.FineCodeCoverage
++ https://json-schema-faker.js.org/
