@@ -49,3 +49,7 @@ Dependency Inversion Principle
 
 ### Clean Code
 * https://www.freecodecamp.org/news/clean-coding-for-beginners/
+
+
+#### Understanding JSON Schemas
+* https://json-schema.org/understanding-json-schema/index.html

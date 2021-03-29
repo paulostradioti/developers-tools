@@ -100,3 +100,4 @@ Useful tools for developers
 + https://technicalseo.com/tools/schema-markup-generator/
 + https://marketplace.visualstudio.com/items?itemName=FortuneNgwenya.FineCodeCoverage
 + https://json-schema-faker.js.org/
++ https://www.jsonschemavalidator.net/
