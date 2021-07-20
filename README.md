@@ -101,3 +101,10 @@ Useful tools for developers
 + https://marketplace.visualstudio.com/items?itemName=FortuneNgwenya.FineCodeCoverage
 + https://json-schema-faker.js.org/
 + https://www.jsonschemavalidator.net/
++ https://dencode.com/
++ https://mockoon.com/
++ https://www.mockable.io/
++ https://feathub.com/
++ https://weworkremotely.com/
++ http://guilhermeponce.com/writeafeature/
++ https://aurelio.net/shell/canivete/

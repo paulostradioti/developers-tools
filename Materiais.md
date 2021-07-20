@@ -53,3 +53,12 @@ Dependency Inversion Principle
 
 #### Understanding JSON Schemas
 * https://json-schema.org/understanding-json-schema/index.html
+
+
++  https://learning.oreilly.com/topics/coding-practices/
+
+
+### Git
+* https://ohshitgit.com/
+* https://gitexplorer.com/
+* https://github.com/k88hudson/git-flight-rules
