@@ -108,3 +108,4 @@ Useful tools for developers
 + https://weworkremotely.com/
 + http://guilhermeponce.com/writeafeature/
 + https://aurelio.net/shell/canivete/
++ https://ngrok.com/ - Ngrok exposes local servers behind NATs and firewalls to the public internet over secure tunnels.
