@@ -92,6 +92,9 @@ Useful tools for developers
 ## Diagraming Tools
 * Bizagi
 
+## Other Tools
+* HID Macros - http://www.hidmacros.eu/download.php  
+Permite criar macros diferenciando o dispositivo de entrada de entrada. 
 
 + https://archunitnet.readthedocs.io/en/latest/
 + http://embedyoutube.org/
