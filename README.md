@@ -112,3 +112,7 @@ Permite criar macros diferenciando o dispositivo de entrada de entrada.
 + http://guilhermeponce.com/writeafeature/
 + https://aurelio.net/shell/canivete/
 + https://ngrok.com/ - Ngrok exposes local servers behind NATs and firewalls to the public internet over secure tunnels.
+
+## Feature Flagging
++ https://www.split.io/product/feature-flags/
++ https://github.com/checkr/flagr
