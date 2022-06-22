@@ -116,3 +116,6 @@ Permite criar macros diferenciando o dispositivo de entrada de entrada.
 ## Feature Flagging
 + https://www.split.io/product/feature-flags/
 + https://github.com/checkr/flagr
+
+## Engineering
++ https://microsoft.github.io/code-with-engineering-playbook/
